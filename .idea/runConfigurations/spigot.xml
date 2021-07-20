@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="spigot" type="JarApplication">
+    <option name="JAR_PATH" value="$USER_HOME$/Desktop/Test Server - Copy/paper.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\tahac\Desktop\Test Server - Copy" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+    <module name="MafanaBank" />
+    <method v="2" />
+  </configuration>
+</component>
